@@ -14,21 +14,9 @@ class ResistorColorDuo {
     }
 
     int value(String[] colors) {
-        int totalValue = 0;
-
-        for (String c: colors) {
-
-            if (totalValue == 0) {
-                totalValue += colorCode(c);
-            } else if (totalValue < 10){
-                totalValue *= 10;
-                totalValue += colorCode(c);
-            } else {
-                // Ignore the third color
-                break;
-            }
+        if (colors.length < 2) {
+            return Integer.parseInt(String.format("%d", colorCode(colors[0])));
         }
-
-        return totalValue;
+        return Integer.parseInt(String.format("%d%d", colorCode(colors[0]),colorCode(colors[1])));
     }
 }
