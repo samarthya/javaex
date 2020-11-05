@@ -24,6 +24,7 @@ class ResistorColorDuo {
                 totalValue *= 10;
                 totalValue += colorCode(c);
             } else {
+                // Ignore the third color
                 break;
             }
         }
