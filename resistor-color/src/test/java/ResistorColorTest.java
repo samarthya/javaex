@@ -1,6 +1,7 @@
 import org.junit.Before;
 import org.junit.Test;
 
+import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
 public class ResistorColorTest {
@@ -39,8 +40,7 @@ public class ResistorColorTest {
     @Test
     public void testColors() {
         String[] expected = {"black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white"};
-
-        assertEquals(expected, resistorColor.colors());
+        assertArrayEquals(expected, resistorColor.colors());
     }
     
 }

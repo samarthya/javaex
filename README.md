@@ -7,3 +7,5 @@ Completed
 - Leap year
 - Reverse String
 - Two-fer
+- resistor-color
+- resistor-color-duo
