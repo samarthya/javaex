@@ -9,3 +9,6 @@ Completed
 - Two-fer
 - resistor-color
 - resistor-color-duo
+
+## Day 2
+- RNA-Transcription
