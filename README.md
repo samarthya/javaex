@@ -18,3 +18,6 @@ Completed
 A tired sunday afternoon.
 
 - dnd-character
+
+## Day 4
+- Grains
