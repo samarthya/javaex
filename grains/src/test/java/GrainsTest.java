@@ -86,7 +86,6 @@ public class GrainsTest {
             .hasMessage("square must be between 1 and 64");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void totalNumberOfGrainsOnABoard() {
         BigInteger total = grains.grainsOnBoard();
