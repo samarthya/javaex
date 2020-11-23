@@ -21,3 +21,13 @@ A tired sunday afternoon.
 
 ## Day 4
 - Grains
+
+## Day 5
+- Pangram
+
+## Day 6
+- Hamming
+
+## Day 7
+- Gigasecond
+
