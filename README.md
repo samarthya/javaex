@@ -31,3 +31,6 @@ A tired sunday afternoon.
 ## Day 7
 - Gigasecond
 - SpaceAge
+
+## Day 8
+- Yacht
