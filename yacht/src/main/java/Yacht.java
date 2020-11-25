@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 class Yacht {
@@ -34,15 +33,6 @@ class Yacht {
                     }
                     return 4 * y;
                 }).sum();
-//                count = Arrays.stream(dice).distinct().flatMap(distinct -> {
-//                    long value = Arrays.stream(dice).filter(x -> x == distinct).count();
-//                    if (value >= 4) {
-//                        return IntStream.of(4 * distinct);
-//                    } else {
-//                        // Ignore
-//                        return IntStream.of(0);
-//                    }
-//                }).sum();
                 break;
 
             case LITTLE_STRAIGHT:
