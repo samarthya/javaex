@@ -34,3 +34,13 @@ A tired sunday afternoon.
 
 ## Day 8
 - Yacht
+
+## Day 9
+- Simple Cipher
+
+## Day 10
+- Rational Number
+
+## Day 11
+- Binary Tree
+- Queen Attack
