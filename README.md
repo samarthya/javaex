@@ -44,3 +44,6 @@ A tired sunday afternoon.
 ## Day 11
 - Binary Tree
 - Queen Attack
+
+## Day 12
+- Satellite
