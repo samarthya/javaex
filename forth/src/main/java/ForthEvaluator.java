@@ -25,10 +25,6 @@ public class ForthEvaluator {
 
         if (list.size() == 1) {
             list.stream().forEach( x  -> {
-                Array items = Arrays.stream(x.toString().split(" "))..toArray();
-                Arrays.stream( ).map(
-
-                )
             });
             //return list.stream().map(x -> x.toString().split(" ")).filter( y -> !opList.contains(y)).mapToInt( z -> Integer.valueOf(z)).collect(Collectors.toList());
         }
