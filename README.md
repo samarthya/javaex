@@ -57,3 +57,6 @@ A tired sunday afternoon.
 
 ## Day 15
 - Nth prime
+
+## Day 16
+- Anagram
